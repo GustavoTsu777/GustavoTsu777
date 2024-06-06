@@ -1,4 +1,5 @@
 ## Opa sou GustavoTsu 👋
+Sou desenvolvedor de bots no Discord especializado em BDFD.
 ## Aprendendo / Uso em projetos:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
