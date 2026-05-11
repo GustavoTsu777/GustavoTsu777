@@ -45,7 +45,7 @@
 ---
 
 ## 🎮 Status do Discord
-[![Discord Presence](https://lanyard.kyrie25.dev/api/405477561146146818?imgStyle=square&animatedDecoration=false&showDisplayName=true&forceGradient=false&hideDecoration=true&hideStatus=false&hideProfile=false&hideSpotify=false&hideNameplate=false&hideTimestamp=false&hideActivity=false&hideDiscrim=true&clanbg=1F54C8&waveColor=ff0000&theme=dark&borderRadius=10px&gradient=ff0000-ffffff-ffffff&bg=000000&imgBorderRadius=5px&idleMessage=%5BDEV-C%2B%2B%20Version%205.4.2%5D%20Programando%20em%20C%20--%3E%20Trabalho%20Final%20-%20Sistema%20para%20gerenciamento%20de%20Academia&animated=false&hideBadges=false)](https://discord.com/users/405477561146146818)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/405477561146146818?animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&showDisplayName=true&animated=true&imgStyle=square&theme=dark&hideDecoration=true&imgBorderRadius=8px&clanbg=1F54C8&idleMessage=%5BDEV-C%2B%2B%20Version%205.4.2%5D%20Programando%20em%20C%20--%3E%20Trabalho%20Final%20-%20Sistema%20para%20gerenciamento%20de%20Academia)](https://discord.com/users/405477561146146818)
 
 <hr style="height:3px">
 
