@@ -1,9 +1,10 @@
 # Olá, eu sou o Gustavo Santos 👋🏻
 
-💡 Explorando programação, design e desenvolvimento web no tempo livre
----
+## 💡 Explorando programação, design e desenvolvimento web no tempo livre
+<hr style="height:3px">
 
 ## 💼 Sobre mim:
+
 <p align="left">
   <a href="https://github.com/GustavoTsu777">
     <img src="https://img.shields.io/badge/GitHub-GUSTAVO SANTOS-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -46,15 +47,16 @@
 ## 🎮 Status do Discord
 [![Discord Presence](https://lanyard.kyrie25.dev/api/405477561146146818?imgStyle=square&animatedDecoration=false&showDisplayName=true&forceGradient=false&hideDecoration=true&hideStatus=false&hideProfile=false&hideSpotify=false&hideNameplate=false&hideTimestamp=false&hideActivity=false&hideDiscrim=true&clanbg=1F54C8&waveColor=ff0000&theme=dark&borderRadius=10px&gradient=ff0000-ffffff-ffffff&bg=000000&imgBorderRadius=5px&idleMessage=%5BDEV-C%2B%2B%20Version%205.4.2%5D%20Programando%20em%20C%20--%3E%20Trabalho%20Final%20-%20Sistema%20para%20gerenciamento%20de%20Academia&animated=false&hideBadges=false)](https://discord.com/users/405477561146146818)
 
+<hr style="height:3px">
 
----
 ## 🌐 Redes Sociais:
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gustavo_tsu?si=udlKzgOhuS8SSGi)
 ## Outros:
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Gustavo_Tsu?via=share_profile_link)
----
 
-🔍 Explorando tecnologia um commit de cada vez
+<hr style="height:3px">  
 
-📩 Aberto a feedbacks, sugestões e novas conexões
+## 🔍 Explorando tecnologia um commit de cada vez
+
+## 📩 Aberto a feedbacks, sugestões e novas conexões
