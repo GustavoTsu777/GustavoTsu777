@@ -32,6 +32,8 @@
 
 ## 🚀 Projeto em destaque
 
+<img src="https://projectalpha.com.br/html/imagens/Logo-nav.png" alt="Alpha Project Logo" width="271">
+
 ### [Project Alpha](https://github.com/GustavoTsu777/Project-Alpha) — Sistema de gestão para academias
 
 Sistema desktop em **linguagem C** com persistência em **arquivos binários**, desenvolvido em equipe de 8 integrantes no Projeto Integrador da Unoeste.
@@ -63,20 +65,6 @@ Sistema desktop em **linguagem C** com persistência em **arquivos binários**, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 🎮 Status do Discord
-[![Discord Presence](https://lanyard.kyrie25.dev/api/405477561146146818?animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&showDisplayName=true&animated=true&imgStyle=square&theme=dark&hideDecoration=true&imgBorderRadius=8px&clanbg=1F54C8&idleMessage=%5BDEV-C%2B%2B%20Version%205.4.2%5D%20Programando%20em%20C%20--%3E%20Trabalho%20Final%20-%20Sistema%20para%20gerenciamento%20de%20Academia)](https://discord.com/users/405477561146146818)
-
----
-
-## 🌐 Redes Sociais:
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gustavo_tsu?si=udlKzgOhuS8SSGi)
-
-## Outros:
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Gustavo_Tsu?via=share_profile_link)
 
 ---
 
