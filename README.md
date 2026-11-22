@@ -11,6 +11,7 @@
   <a href="https://www.projectalpha.com.br"><img src="https://img.shields.io/badge/projectalpha.com.br-C1121F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Alpha" /></a>
   <a href="https://www.unoeste.br/graduacao/faculdade-de-analise-desenvolvimento-sistemas"><img src="https://img.shields.io/badge/Unoeste-1A8A20?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Unoeste" /></a>
 </p>
+
 ---
 
 ## 🙋‍♂️ Sobre mim
@@ -77,7 +78,6 @@ Antes disso, no **Projeto Integrado I**, a equipe criou a identidade visual e os
 <p>
   <img src="https://img.shields.io/badge/Linguagem%20C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
