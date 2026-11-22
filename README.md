@@ -29,9 +29,9 @@ Na faculdade, sou o **líder de projeto (Scrum Master)** de uma equipe de **8 in
 ## 🚀 Projeto em destaque
 
 <p align="center">
-  <a href="https://www.projectalpha.com.br"><img src="https://www.projectalpha.com.br/assets/images/Logo-nav.png" alt="Project Alpha" height="80" /></a>
+  <a href="https://www.projectalpha.com.br"><img src="project-alpha-logo.png" alt="Project Alpha" height="80" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DevNexus-ProjectAlpha"><picture><source media="(prefers-color-scheme: dark)" srcset="devnexus-empilhada.png"><img src="devnexus-empilhada-clara.png" alt="DevNexus" height="70" /></picture></a>
+  <a href="https://github.com/DevNexus-ProjectAlpha"><picture><source media="(prefers-color-scheme: dark)" srcset="devnexus-empilhada.png"><img src="devnexus-empilhada-clara.png" alt="DevNexus" height="80" /></picture></a>
 </p>
 
 <p align="center">
