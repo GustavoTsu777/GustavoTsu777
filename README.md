@@ -21,7 +21,7 @@ Estou no **2º termo de Análise e Desenvolvimento de Sistemas** na Unoeste e tr
 Na faculdade, sou o **líder de projeto (Scrum Master)** de uma equipe de **8 integrantes**. Divido as tarefas, acompanho os prazos, junto o código de todo mundo em uma entrega só e escrevo a documentação técnica. Também programo: em **C** no sistema desktop e em **HTML, CSS, JavaScript e Bootstrap** no site.
 
 - 🎯 Procurando **estágio em TI** (Presidente Prudente e região)
-- 📄 Escrevo documentação de verdade: ERS pela **IEEE 830**, relatórios de instruções e roteiros de teste
+- 📄 Escrevo documentação de verdade: ERS pela **IEEE 830**, relatórios de instruções e roteiros de demonstração
 - 🤖 Nas horas vagas, crio **bots para Discord**
 - 💬 Pode me chamar para falar de C, organização de equipe ou Power BI
 
@@ -30,9 +30,9 @@ Na faculdade, sou o **líder de projeto (Scrum Master)** de uma equipe de **8 in
 ## 🚀 Projeto em destaque
 
 <p align="center">
-  <a href="https://www.projectalpha.com.br"><img src="project-alpha-logo.png" alt="Project Alpha" height="80" /></a>
+  <a href="https://www.projectalpha.com.br"><img src="project-alpha-logo.png" alt="Project Alpha" height="90" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DevNexus-ProjectAlpha"><picture><source media="(prefers-color-scheme: dark)" srcset="devnexus-empilhada.png"><img src="devnexus-empilhada-clara.png" alt="DevNexus" height="80" /></picture></a>
+  <a href="https://github.com/DevNexus-ProjectAlpha"><picture><source media="(prefers-color-scheme: dark)" srcset="devnexus-empilhada.png"><img src="devnexus-empilhada-clara.png" alt="DevNexus" height="70" /></picture></a>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Na faculdade, sou o **líder de projeto (Scrum Master)** de uma equipe de **8 in
         <li>Frequência, financeiro e 7 relatórios com filtros</li>
         <li>Histórico de versões V1.0 → V3.5 em commits</li>
       </ul>
-      <p><b>Minha parte:</b> estrutura base, integração do código da equipe, recebimento, cancelamento, frequência, financeiro, agenda, relatórios e a base de dados de teste.</p>
+      <p><b>Minha parte:</b> estrutura base, integração do código da equipe, recebimento, cancelamento, frequência, financeiro, agenda, relatórios, base de dados de teste e os relatórios de instruções que orientaram a equipe.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/DevNexus-ProjectAlpha/Project-alpha-Bootstrap">Website</a></h3>
@@ -62,7 +62,7 @@ Na faculdade, sou o **líder de projeto (Scrum Master)** de uma equipe de **8 in
         <li>Dashboard de avaliações físicas com IMC e relatório</li>
         <li>Widget de acessibilidade e VLibras</li>
       </ul>
-      <p><b>Minha parte:</b> dashboard, matrícula e planos, acessibilidade, organização do repositório e deploy na Vercel com domínio próprio.</p>
+      <p><b>Minha parte:</b> adaptação do template à marca, página inicial e planos, matrícula com pagamento, dashboard de avaliações físicas, acessibilidade e deploy na Vercel com domínio próprio.</p>
     </td>
   </tr>
 </table>
@@ -112,6 +112,7 @@ Antes disso, no **Projeto Integrado I**, a equipe criou a identidade visual e os
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ---
